@@ -2,7 +2,7 @@
 
 In ancient lore, [[Cret]], [[Rem]], and [[Slán]] were the first [[Being]]s, known as [[The Three Eternals]]. They always were and always will be. They are one and the same, constructed of [[Pure Spirit]] and [[Astral Energy]], organized into the 4th Dimension known as [[The Hither]]. 
 
-At the beginning of time, Cret, Rem, and Slán utilized their [[Deities and Religion/Eternal Spirits]] to create the [[Astral Realms]] of [[Abundance]], [[Dysfunction]], and [[Perfection]]. 
+At the beginning of time, Cret, Rem, and Slán utilized their [[Eternal Spirits]] to create the [[Astral Realms]] of [[Abundance]], [[Dysfunction]], and [[Perfection]]. 
 
 These realms could foster consciousnesses known as [[Aliyata]] - beings created entirely from [[Spirit]] to help fulfill the Eternal’s purposes. They were direct extensions of the Eternals, gifted with great powers to influence spacetime and never die. 
 
@@ -16,7 +16,7 @@ Thus, the 3D world of [[Aura]] was created.
 
 In Aura, Cret created the lands of [[Lunelvín]], [[Artembia]], and [[Cretovia]]. He made these lands full of awe inspiring landscapes and jaw dropping beauty.  Hundreds of thousands of species of plants and animals inherited the lands, handcrafted by Cret himself. These beings had a type of creaturely free will, but lacked any amount of reason to develop a purpose, and fully utilize the free will they were given. 
 
-Cret knew that in order for a being to have free will *and* reason, they need to have some proportion of each of the eternal’s [[Deities and Religion/Eternal Spirits]], so they could choose. Through this, they could choose to encompass Creative, Chaotic, or Orderly values.
+Cret knew that in order for a being to have free will *and* reason, they need to have some proportion of each of the eternal’s [[Eternal Spirits]], so they could choose. Through this, they could choose to encompass Creative, Chaotic, or Orderly values.
 
 Cret needed Rem and Slán to get in on the action. The two Eternals wanted nothing to do with Aura at first: Rem thought [[Aura’s Physical Laws]] were too structured, and Slán saw Free Will as too chaotic and unpredictive. He convinced them to join in by allowing them to create their own lands on Aura however they see fit. This lead to the creation of [[Reltrome]] and [[Flyígan]]. 
 

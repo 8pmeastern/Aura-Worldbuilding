@@ -1,2 +1,0 @@
-A flat prairie like area with occasional hills and trees. Home to the Heighblin Krilstuthians.
-Bordered by [[Nebulzia]] to the East, [[Places/Regions/Eyudan Regions/The Sunder]], [[The Blackridge Mountains]], [[The Fire]] and [[The Barren]] to the south, [[The Sand]] to the north and west. 
