@@ -1,9 +1,3 @@
----
-title: "Introduction"
-draft: false
-tags:
-  - example-tag
----
 ### The Astral Realms (0A)
 
 In ancient lore, [[Cret]], [[Rem]], and [[Slán]] were the first [[Being]]s, known as [[The Three Eternals]]. They always were and always will be. They are one and the same, constructed of [[Pure Spirit]] and [[Astral Energy]], organized into the 4th Dimension known as [[The Hither]]. 
