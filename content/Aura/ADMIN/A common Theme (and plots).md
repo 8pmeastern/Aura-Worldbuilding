@@ -29,7 +29,6 @@ In the second series (3 books) ends with “The Revelation of Slán” plots:
 2. The power struggles of the evil nations to retain hold on their empire (struggling with maintaining order after the conquered the world with chaos)
 3. The impending collapse of [[The Barrier]] and merge of Aura and the Astral Realms. 
 
-
 Cretovian Chronicles: A Beautiful Creation
 The third series (three books) ends with “The Revelation of Cret” plots:
 1. The astral world mixing fully with the physical world, [[Aliyata]] are wreaking havoc across Cretovia.

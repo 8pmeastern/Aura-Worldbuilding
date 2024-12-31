@@ -6,7 +6,7 @@ At the beginning of time, Cret, Rem, and Slán utilized their [[Eternal Spirits]
 
 These realms could foster consciousnesses known as [[Aliyata]] - beings created entirely from [[Spirit]] to help fulfill the Eternal’s purposes. They were direct extensions of the Eternals, gifted with great powers to influence spacetime and never die. 
 
-Rem and Slán use their Perrenials to battle one another as they have always been fundamentally opposing forces, in a war known as the [[Endless Astral Conflict]]. Cret saw no interest in fighting, but rather to find find purpose through his creation. 
+Rem and Slán use their Aliyata to battle one another as they have always been fundamentally opposing forces, in a war known as the [[Endless Astral Conflict]]. Cret saw no interest in fighting, but rather to find find purpose through his creation. 
 
 Cret felt that there was little meaning in The Hither because Aliyata don’t have [[Free Will]]  to choose their destiny, as every 4D being transcends spacetime, and they lack proper [[Reason]] due to their inheritance of their creator’s [[Eternal Belief Structure]]. Cret decided he wanted to create a world with physical laws that limit power and maximize Free Will and Reason, which will allow beings to find a purpose. Cret wanted to create a world so its beings could experience time, free will and emotion, on their own. He believes that choosing one’s destiny gives one’s life meaning at its fullest, and that this meaning can only be revealed in a third dimensional being made of [[Matter]]. By creating these beings, guiding them towards their unique purpose, and preserving their uniqueness, Cret fulfills *his* purpose. 
 
@@ -42,7 +42,7 @@ Where the threat from another invasion of Cretovia was diminished, the [[Great B
 
 Cret, frustrated with his people’s destructive nature, sought to limit their free will through natural means, succumbing to the inevitable - where there is Creation, there will always be Destruction. 
 
-#### **The [[Wrath of Cret]]**
+#### The [[Wrath of Cret]]
 
 In his wrath, Cret made many hostile barriers to divide his lands further. In [[Cretovia]], he created the [[Endless Storm of Cretovia]] between Eyuda and Dormiaán, and put the active volcano [[Mt. Ziqead]], along with the [[Aberrant Fissures]] between Eyuda and Nebulzia. He made the oceans even more of an extremely hostile and unnavigable place, so the three regions became separate lands, and were virtually cut off from one another. 
 
