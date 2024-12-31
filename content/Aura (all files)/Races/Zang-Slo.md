@@ -1,0 +1,1 @@
+A race of humans with a savage raiding culture who traversed the Sundra and raided the Eyudan kingdoms during the Fractious Era of the Divided Age. They have redish skin and green or yellow eyes. They can see relatively well in the dark, and thrive in hot weather. 

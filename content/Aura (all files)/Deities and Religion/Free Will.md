@@ -1,0 +1,1 @@
+A gift that Cret instilled into the word of Aura, to allow its beings to choose freely and find a purpose. 

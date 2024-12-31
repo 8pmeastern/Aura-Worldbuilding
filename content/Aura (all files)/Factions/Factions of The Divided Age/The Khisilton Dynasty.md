@@ -1,0 +1,2 @@
+
+Lay claim to the Hover. A Half-Quigi Half-Krilstuthian race primarily live within this kingdom. They are stand off ish, but have a deadly trained army that knows how to use Astral Energy. They are hated by most other factions for being isolationist and snobby.

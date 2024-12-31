@@ -1,0 +1,3 @@
+- they are stretchy… look like a mini trampoline on its side with a head and arms. They can basically do what elastagirl can do except not stretch as far…
+- Live in the Forever Storm. Do not need it to survive but draw energy from electricity. Can sometimes use lightening energy to shoot beams
+- One main character is a sinshock. In the 4th book he finds out his entire civilization had been wiped out due to black magic that stopped the storms. The storms were stopped by an evil Emperor from a far coming to conquer Eastern Cretovia

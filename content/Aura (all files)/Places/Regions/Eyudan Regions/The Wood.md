@@ -1,0 +1,2 @@
+
+A woodland region home to humans. Stiffies and Quigi used to live here but the [[Dimonaé Kingdom]] expelled all but humans shortly after the Zang Slo were defeated. Bordered by [[Taïgfrost]] to the north, [[The Living Loch]] to the east, [[Endless Storm of Cretovia]] to the south, and [[Isle of Qi]] and 

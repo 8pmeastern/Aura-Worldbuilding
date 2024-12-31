@@ -1,0 +1,4 @@
+- A province of southern Widgelf that borders the Bay of Eyuda. 
+- Rocky, foggy, plateau area with deep temperate woods on the outskirts
+- Mostly occupied by [[Humans]] and [[Braidwolf]]. 
+- Is one of the only towns that actively gets hunted by a Beast, [[The Great Terror of Palika]].

@@ -1,0 +1,1 @@
+home of [[Mt. Ziqead]] and the [[Aberrant Fissures]]. bordered by [[The Bog]] to teh south, [[Nebulzia]] to the east, [[The Barren]] to the west, and [[The Dirt]] to the north.

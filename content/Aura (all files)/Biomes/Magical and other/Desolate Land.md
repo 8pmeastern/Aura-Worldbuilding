@@ -1,0 +1,1 @@
+fissures outside of the volcano

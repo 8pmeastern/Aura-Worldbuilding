@@ -1,0 +1,1 @@
+This untraversable mountain range was raised by Cret in a fit of rage to divide the regions of [[Eyuda]] and [[Dormiaán]] forever. In addition to the Mountains, the [[Endless Storm of Cretovia]] rages on, above and past the range deep into the [[Illisatic Ocean]] and the Tropical Waters to the North. 

@@ -1,0 +1,1 @@
+Cret placed elemental pillars across Aura to regulate its temperature. There are believed to be four main pillars, known to the Eyudans as the Northern Pillar of Fire, the Eastern Pillar of Fire, the Southern pillar of Frost, and the Western Pillar of Frost.

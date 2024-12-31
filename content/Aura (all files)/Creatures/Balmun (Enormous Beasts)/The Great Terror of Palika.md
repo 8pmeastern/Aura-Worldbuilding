@@ -1,0 +1,3 @@
+- A ghastly 40 ft tall slender creature that moves very quick for its size 
+- Terrorizes the people of [[Palika]] by stealing livestock and villagers during foggy nights
+- Body like a sloth walking on two legs, but moves very fast

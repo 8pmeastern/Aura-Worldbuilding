@@ -1,0 +1,1 @@
+The sword of Lost Souls allows its wielder to channel [[Astral Energy]] and help balance out a creations [[Eternal Spirits]]. 

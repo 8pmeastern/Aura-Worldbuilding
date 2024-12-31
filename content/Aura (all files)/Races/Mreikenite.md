@@ -1,0 +1,5 @@
+- Scaled skin with wings
+- 4 arms and two legs
+- Head similar to bear, but scaly 
+- Morally good, but stay out of everyone’s business because they are isolationist
+- Live in extreme conditions… desert nomadic, glacier dwelling, never underground

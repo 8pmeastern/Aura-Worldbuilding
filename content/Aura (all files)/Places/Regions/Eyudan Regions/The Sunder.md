@@ -1,0 +1,1 @@
+An underground region in Eyuda. Bordered by [[The Sand]] to the north, [[The Blackridge Mountains]] to the east, [[Taïgfrost]] to the west, [[Ancient Woodland]] to the south.

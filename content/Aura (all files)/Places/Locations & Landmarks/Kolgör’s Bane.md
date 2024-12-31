@@ -1,0 +1,3 @@
+The icy river that divides the Taig into two. Named after the [[Balmun]] [[Kolgör]], this river has rapid currents and is filled with ice chunks. Flowing from the [[Cryog Peaks]] that surround [[Mountain Top]], hug pieces of ice make their way down the mountain east, all the way to [[The Living Loch]]. This is one of the major rivers in Eyuda. 
+
+Local legend has it that [[Cret]] took the summit of a mountain from the Cryog peaks and made it into the sentient being known as Kolgör during the [[Wrath of Cret]]. The first roar let out from Kolgör’s mouth caused so great an avalanche, that the vast caves of water inside the Deadly Mountains began to pour into Eyuda, carving a path towards the Living Loch. 

@@ -1,0 +1,9 @@
+- basically a troll 
+- Called tumbles because they love throwing things/creatures
+- Can be domesticated by some, breeded by evil-doers
+- Super tall, dumb creatures
+- Speak very broken English
+- Three kinds: Forest, Cave, Frost
+- Forest Tumble: tall, swings trees, easiest to domesticate/reason with, speaks some broken English
+- Cave tumble: shorter, skinnier, pale, run fast on all fours, barely have interaction and if any it’s trying to eat you, can understand English but doesn’t care
+- Frost Tumble: fat, furry, ferocious, live in cold conditions, fully wild no civility at all, kill on sight

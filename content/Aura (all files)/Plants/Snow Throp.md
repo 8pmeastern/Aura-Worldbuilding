@@ -1,0 +1,1 @@
+Like wheat, grows in snowy cold areas. Doesn’t taste good to most, but it is a main source of food for the Cemork kingdom. 

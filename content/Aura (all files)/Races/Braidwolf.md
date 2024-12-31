@@ -1,0 +1,6 @@
+- Cross between a man and a wolf
+- Strong
+- Second class citizen although not deeply discriminated against
+- Some noble respected warriors
+- live 100 years old
+- Factional issues: some (very few) want to destroy humans due to animosity towards their class within society, most want to fight along side humans and earn their place

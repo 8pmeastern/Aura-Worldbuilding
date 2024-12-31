@@ -1,0 +1,3 @@
+
+*Simeon’s progression and character development:*
+Simeon’s parents get killed by a [[Balmun]]. He set out to Over the series he finds that the Balmun are possessed by too much chaotic spirit and can actually be tamed by using astral energy to channel order and creation energy into it. Instead of killed the Balmun, Simeon tames it, overcomes his urge for revenge. In later books [[Kolgör]] is crucial to protecting Mountain Top from the Evil Powers and sacrifices his life for Simeon. Simeon's series journey is about becoming the Beastmaster - a powerful mage that uses astral energy to tame beasts. He is a proponent for creation.

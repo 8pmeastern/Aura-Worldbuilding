@@ -1,0 +1,3 @@
+- looks like rhino with two horns
+- From the plains
+- Giants domesticate them for milk and riding (like cows + horses)

@@ -1,0 +1,3 @@
+- about 10-12 feet tall
+- Tribal and territorial, often do not like any other beings
+- will kill tumbles on sight

@@ -1,0 +1,2 @@
+
+All of Cretovia is holding its breath as the 13 lands of Eyuda are on the verge of collapse and war. Power struggles, treachery, and bad blood between the peoples lead to threats of genocide and war. Will Cretovia fall into chaos? Or can our heroes keep the peace?

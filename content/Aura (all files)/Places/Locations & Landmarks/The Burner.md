@@ -1,0 +1,1 @@
+A giant waste bin located in [[Castle Sunder]] where waste (or people) are thrown from [[The Sunderland Steep]] to the lava pits beneath the [[The Simmering Floor]].

@@ -1,0 +1,3 @@
+- Native to Reltrome
+- a dark scaly creature like a lizard
+- fully black, dagger for tail used to stab, fast and can climb walls, no wings, rode and domesticated by Stocainians.

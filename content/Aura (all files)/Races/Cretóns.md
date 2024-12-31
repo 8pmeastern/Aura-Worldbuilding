@@ -1,0 +1,4 @@
+- Cretons believe they are the one true Cretovian Race
+- From Dormiaán
+- look like humans and Krilstuthians combined. They are tall red and naturally strong. Average height 6ft 3 in
+- They have their own rich history but are currently united under the Emperor. The majority race in Eyuda in the Divided Age

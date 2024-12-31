@@ -1,0 +1,1 @@
+Continent created by Rem. A sinister place of fire and death. Arid deserts. No settlements, at least known to the common Cretovian. Beasts of fire and death.

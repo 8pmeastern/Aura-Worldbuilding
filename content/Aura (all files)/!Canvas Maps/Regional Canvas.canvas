@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"ed307f46d34ead3d","type":"file","file":"Places/Continents/Cretovia.md","x":-380,"y":-780,"width":400,"height":400},
+		{"id":"8170a7d4d426304d","type":"file","file":"Places/Continents/Lunelvín.md","x":1000,"y":-780,"width":400,"height":400},
+		{"id":"e8f2333e2391bf5c","type":"file","file":"Places/Continents/Artembia.md","x":-1720,"y":-780,"width":400,"height":400},
+		{"id":"d61f81d0b9e1a65d","type":"file","file":"Places/Continents/Reltrome.md","x":-2880,"y":-780,"width":400,"height":400},
+		{"id":"73e9253a29a2abb4","type":"file","file":"Places/Continents/Flyígan.md","x":2160,"y":-780,"width":400,"height":400},
+		{"id":"39488828f4046dee","type":"file","file":"Places/Continents/Aura.md","x":-240,"y":-1617,"width":400,"height":400},
+		{"id":"209b349239377f39","type":"file","file":"Places/4D Places/The Hither.md","x":-240,"y":-2977,"width":400,"height":400},
+		{"id":"afe0e94a01ac810c","type":"file","file":"Places/4D Places/Perfection.md","x":800,"y":-2514,"width":400,"height":400},
+		{"id":"c37f8c5fe30f2c02","type":"file","file":"Places/4D Places/Abundance.md","x":800,"y":-2977,"width":400,"height":400},
+		{"id":"0cf9a89a273def33","type":"file","file":"Places/4D Places/Dysfunction.md","x":800,"y":-2017,"width":400,"height":400},
+		{"id":"7fc199df1af17abc","type":"file","file":"Places/Continents/Cretovian subcontinents/Dormiaán.md","x":-1120,"y":-126,"width":400,"height":400},
+		{"id":"e05bd51d4645a0a2","type":"file","file":"Places/Continents/Cretovian subcontinents/Eyuda.md","x":-463,"y":274,"width":446,"height":228},
+		{"id":"9148cfc03f6dc889","type":"file","file":"Places/Continents/Cretovian subcontinents/Nebulzia.md","x":320,"y":-126,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"f54fcc4358893c06","fromNode":"39488828f4046dee","fromSide":"bottom","toNode":"d61f81d0b9e1a65d","toSide":"top"},
+		{"id":"0486903d91b362de","fromNode":"39488828f4046dee","fromSide":"bottom","toNode":"e8f2333e2391bf5c","toSide":"top"},
+		{"id":"908ff5d26ae7cd4b","fromNode":"39488828f4046dee","fromSide":"bottom","toNode":"ed307f46d34ead3d","toSide":"top"},
+		{"id":"250701eac9e3a1d2","fromNode":"39488828f4046dee","fromSide":"bottom","toNode":"8170a7d4d426304d","toSide":"top"},
+		{"id":"cd4da6350b5f198e","fromNode":"39488828f4046dee","fromSide":"bottom","toNode":"73e9253a29a2abb4","toSide":"top"},
+		{"id":"82f9560c766da670","fromNode":"ed307f46d34ead3d","fromSide":"bottom","toNode":"7fc199df1af17abc","toSide":"top"},
+		{"id":"8063c89582984d6e","fromNode":"ed307f46d34ead3d","fromSide":"bottom","toNode":"e05bd51d4645a0a2","toSide":"top"},
+		{"id":"fd972c414678f5c5","fromNode":"ed307f46d34ead3d","fromSide":"bottom","toNode":"9148cfc03f6dc889","toSide":"top"},
+		{"id":"27198346beb50983","fromNode":"209b349239377f39","fromSide":"right","toNode":"afe0e94a01ac810c","toSide":"left"},
+		{"id":"ce9d113f535d3fcc","fromNode":"209b349239377f39","fromSide":"right","toNode":"0cf9a89a273def33","toSide":"left"},
+		{"id":"952ebf653e5fca0a","fromNode":"209b349239377f39","fromSide":"bottom","toNode":"39488828f4046dee","toSide":"top"},
+		{"id":"4d5939e8c4b17592","fromNode":"209b349239377f39","fromSide":"right","toNode":"c37f8c5fe30f2c02","toSide":"left"}
+	]
+}

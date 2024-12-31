@@ -1,0 +1,1 @@
+Home of the Widgehelf Confederation. Borders [[The Dirt]] to the north, [[The Sunder]], [[Ancient Woodland]] and [[Taïgfrost]] to the west, [[The Barren]] to the east, and [[The Living Loch]] to the south.

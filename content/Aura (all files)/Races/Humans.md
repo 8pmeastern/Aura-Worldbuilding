@@ -1,0 +1,7 @@
+- live 80 years old
+- Control most of the known world, minus Krilstuthians
+- Factional issues: 3 kingdoms: Cemork, Dimonae, and Widghelf (also pirates, pillagers, various scattered peoples)
+- All kingdoms do not get along for one reason or another
+- Dimonae has a racist tyrant king and weath, wants to destroy the Krilstuthians and has large segregated class division through the kingdom, Widghelf is poorest and smallest and king is half Braidwolf, Cemork has great king the biggest kingdom and wants peace between all races
+- Eastern Cretovian Humans look all the same race… they look mixed skin color between white and black, although tone can somewhat vary, it is uncommon for any attention to be drawn to this. Average height 5ft 10in
+- Subclass

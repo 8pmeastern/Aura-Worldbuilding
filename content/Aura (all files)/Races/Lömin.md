@@ -1,0 +1,3 @@
+A simple, jolly, bellied folk that can puff up for defense and harden their skin like stone. They have small communities across Eyuda. They’re originally from Dormiaan, so very few were here during the Divided Age, and therefore are small in numbers compared to the other races. They are scattered around Eyuda, but generally reside with human kingdoms, or the wild. They have their own village in the [[Widgehelf Confederation]]. Some will travel in caravans. 
+
+Lömin have a natural higher platelet count. When a Lömin so pleases, all of their platelets rush to their outer skin making it hard like stone. 

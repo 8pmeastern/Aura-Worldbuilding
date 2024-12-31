@@ -1,0 +1,1 @@
+A tiger like creature that has small porcupine-like needles for fur, that it can rattle together when it’s about to attack (like a rattle snake)

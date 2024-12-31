@@ -1,0 +1,1 @@
+Astral realms are 4D realms within [[The Hither]] where [[Aliyata]] and deceased consciousnesses reside. 

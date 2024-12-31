@@ -1,0 +1,1 @@
+A huge freshwater sea in the center of Eyuda. About the size of the Gulf of Mexico. 

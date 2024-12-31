@@ -1,0 +1,1 @@
+This area is mostly controlled by Krilstuthians of the [[The Tractzilian Technocracy]]. BOoreded by [[The Barren]] and [[The Fire]] in the north, The Sea in the south and the east, the [[The Living Loch]] and [[The Wild]] to the west
