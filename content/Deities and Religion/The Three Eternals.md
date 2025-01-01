@@ -1,7 +1,10 @@
 ---
 tags:
   - eternals
-down: ['Rem','cret']
+down:
+  - Rem
+  - Cret
+  - Slán
 ---
 
 

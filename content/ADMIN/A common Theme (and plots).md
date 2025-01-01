@@ -1,3 +1,16 @@
+---
+tags:
+  - aura
+  - theme
+  - cretovian_chronicles
+down: 
+up: 
+same:
+  - Cretovian Chronicles
+  - Themes
+next: 
+prev:
+---
 
 An important theme I want to ingrain into Aura worldbuilding and storytelling:
 
