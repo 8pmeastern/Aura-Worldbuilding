@@ -7,6 +7,6 @@ Creation allows order and chaos to exist at equilibrium.
 
 Wonder at a unique and hyper beautiful world
 
-Cret laid the moral code and gave [[The First Beings of Aura]] purpose through [[Free Will]] and [[Reason]] by mixing all three eternal spirits to create them. What is morally just and unjust comes from Cret alone, even is specific societies have their own subjective codes. 
+Cret laid the moral code and gave [[The First Beings of Aura]] purpose through Free Will and Reason by mixing all three eternal spirits to create them. What is morally just and unjust comes from Cret alone, even is specific societies have their own subjective codes. 
 
 Not a theme, but I want to stress things are NOT inevitable. Free will can change things. Oracles are stupid. 

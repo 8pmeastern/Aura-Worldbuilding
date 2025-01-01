@@ -28,7 +28,7 @@ Razul the Krilstuthian sought to unite all towns to trade and help establish cit
 *EE 0-1094*
 
 Qigiun Empire 
-A Qigiu known as Wembus Trombu conquered all kingdoms and established the [[Qigiu Empire (Empirical Era)]] to show that the Qigiu are superior and spread the worship of the Qigiu Pantheon, which includes famous perennials from all three Eternals. This shaped the religious followings of the Euydans. 
+A Qigiu known as Wembus Trombu conquered all kingdoms and established the [[Qigiu Empire]] to show that the Qigiu are superior and spread the worship of the Qigiu Pantheon, which includes famous perennials from all three Eternals. This shaped the religious followings of the Euydans. 
 
 It was during the reign of the Qigiun Empire when The Sludge first appeared and began to wreak havoc on the eastern jungle lands in Dormiaan.
 

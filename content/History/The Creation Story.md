@@ -1,6 +1,6 @@
 ### The Astral Realms (0A)
 
-In ancient lore, [[Cret]], [[Rem]], and [[Slán]] were the first [[Being]]s, known as [[The Three Eternals]]. They always were and always will be. They are one and the same, constructed of [[Pure Spirit]] and [[Astral Energy]], organized into the 4th Dimension known as [[The Hither]]. 
+In ancient lore, [[Cret]], [[Rem]], and [[Slán]] were the first Beings, known as [[The Three Eternals]]. They always were and always will be. They are one and the same, constructed of [[Pure Spirit]] and [[Astral Energy]], organized into the 4th Dimension known as [[The Hither]]. 
 
 At the beginning of time, Cret, Rem, and Slán utilized their [[Eternal Spirits]] to create the [[Astral Realms]] of [[Abundance]], [[Dysfunction]], and [[Perfection]]. 
 
@@ -8,7 +8,7 @@ These realms could foster consciousnesses known as [[Aliyata]] - beings created 
 
 Rem and Slán use their Aliyata to battle one another as they have always been fundamentally opposing forces, in a war known as the [[Endless Astral Conflict]]. Cret saw no interest in fighting, but rather to find find purpose through his creation. 
 
-Cret felt that there was little meaning in The Hither because Aliyata don’t have [[Free Will]]  to choose their destiny, as every 4D being transcends spacetime, and they lack proper [[Reason]] due to their inheritance of their creator’s [[Eternal Belief Structure]]. Cret decided he wanted to create a world with physical laws that limit power and maximize Free Will and Reason, which will allow beings to find a purpose. Cret wanted to create a world so its beings could experience time, free will and emotion, on their own. He believes that choosing one’s destiny gives one’s life meaning at its fullest, and that this meaning can only be revealed in a third dimensional being made of [[Matter]]. By creating these beings, guiding them towards their unique purpose, and preserving their uniqueness, Cret fulfills *his* purpose. 
+Cret felt that there was little meaning in The Hither because Aliyata don’t have Free Will  to choose their destiny, as every 4D being transcends spacetime, and they lack proper Reason due to their inheritance of their creator’s [[Eternal Belief Structure]]. Cret decided he wanted to create a world with physical laws that limit power and maximize Free Will and Reason, which will allow beings to find a purpose. Cret wanted to create a world so its beings could experience time, free will and emotion, on their own. He believes that choosing one’s destiny gives one’s life meaning at its fullest, and that this meaning can only be revealed in a third dimensional being made of [[Matter]]. By creating these beings, guiding them towards their unique purpose, and preserving their uniqueness, Cret fulfills *his* purpose. 
 
 Thus, the 3D world of [[Aura]] was created.
 
@@ -18,7 +18,7 @@ In Aura, Cret created the lands of [[Lunelvín]], [[Artembia]], and [[Cretovia]]
 
 Cret knew that in order for a being to have free will *and* reason, they need to have some proportion of each of the eternal’s [[Eternal Spirits]], so they could choose. Through this, they could choose to encompass Creative, Chaotic, or Orderly values.
 
-Cret needed Rem and Slán to get in on the action. The two Eternals wanted nothing to do with Aura at first: Rem thought [[Aura’s Physical Laws]] were too structured, and Slán saw Free Will as too chaotic and unpredictive. He convinced them to join in by allowing them to create their own lands on Aura however they see fit. This lead to the creation of [[Reltrome]] and [[Flyígan]]. 
+Cret needed Rem and Slán to get in on the action. The two Eternals wanted nothing to do with Aura at first: Rem thought Aura’s Physical Laws were too structured, and Slán saw Free Will as too chaotic and unpredictive. He convinced them to join in by allowing them to create their own lands on Aura however they see fit. This lead to the creation of [[Reltrome]] and [[Flyígan]]. 
 
 In return, the Eternals would combine their spirit to create [[The First Beings of Aura]]. These beings were equal parts Creation Spirit, Orderly Spirit, and Chaotic Spirit.
 
