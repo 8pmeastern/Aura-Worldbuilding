@@ -16,4 +16,4 @@ Feel free to have a look around! In addition to reading up on Aura lore, I could
 
 #### Where to start:
 
-A good place to start is reading about [[Aura]], [[The Creation Story]], and [[A common Theme (and plots)]], [[Cretovian Chronicles]], [[More on The Hither and the Eternals]], [[Character Story Arcs]]. There are a ton of folders with a ton of content and links to other pages. Enjoy!
+A good place to start is reading about [[Aura]], [[The Creation Story]], and [[Theme, plots, series]], [[Cretovian Chronicles]], [[More on The Hither and the Eternals]], [[Character Story Arcs]]. There are a ton of folders with a ton of content and links to other pages. Enjoy!
