@@ -1,1 +1,0 @@
-Being a nature centered world, Aura is loaded with cool biomes.
