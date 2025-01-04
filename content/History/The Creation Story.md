@@ -70,6 +70,6 @@ Knowledge of each other in the Divided Age:
 
 Over time all three parts of Cretovia know they exist, but so much time has passed (hundreds of thousands of years) with little contact, that they have evolved differently, and have drastically different cultures and societies. There has been no known contact between Dormiaán and the other regions, and there has been little contact between the Nebulzians (are mostly pirates or desert nomadic) and the Eyudans. 
 
-The [[Cretovian Chronicles]] take place in Eyuda  the Modern Era (MA:203). The volcanic activity of [[Mt. Ziqead]] halted abruptly in 198, which allowed the Aberrant Fissures to be passable on foot for the past 5 years. Some Krilstuthians had crossed into the deserts and brought back tales of Nebulzian ships and pirates, kings and tribes, Mreikenite wanderers, and desert beasts similar to the [[Balmun]] that plague the Eyudan peoples. 
+The [[The Cretovian Chronicles]] take place in Eyuda  the Modern Era (MA:203). The volcanic activity of [[Mt. Ziqead]] halted abruptly in 198, which allowed the Aberrant Fissures to be passable on foot for the past 5 years. Some Krilstuthians had crossed into the deserts and brought back tales of Nebulzian ships and pirates, kings and tribes, Mreikenite wanderers, and desert beasts similar to the [[Balmun]] that plague the Eyudan peoples. 
 
 The [[Endless Storm of Cretovia]] still thunders on over the [[Deadly Mountains]] and — ocean
