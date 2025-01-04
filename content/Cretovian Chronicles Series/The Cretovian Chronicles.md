@@ -1,3 +1,4 @@
+
 The Cretovian Chronicles is a planned book series consisting of 3 parts and 10 books. 
 (see: [[Theme, plots, series]])
 
@@ -7,10 +8,12 @@ Part 1 - A Chaotic Decent
 3. [[Book 3 - A War of Three Kings]]
 4. [[Book 4 - The Horde]]
 5. [[Book 5 - The Revelation of Rem]]
+
 Part 2 - An Orderly Conquest
 1. [[Book 6 - An Empire of Order]]
 2. [[Book 7 - Civil War]]
 3. [[Book 8 - The Revelation of Slán]]
+
 Part 3 - A Beautiful Creation
 1. [[Book 9 - The Power Within]]
 2. [[Book 10 - The Revelation of Cret]]
