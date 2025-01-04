@@ -1,4 +1,4 @@
-Cretovian Chronicles are a 3 part series consisting of 11 books. 
+The Cretovian Chronicles are a 3 part series consisting of 11 books. 
 (see: [[Theme, plots, series]])
 
 Part 1 - A Chaotic Decent
